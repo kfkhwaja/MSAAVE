@@ -7,11 +7,11 @@ Use this repository to keep track of performance files!
 If you haven't used Git or Github before, check out these tutorials: [Git Tutorial](https://videotutorials.notion.site/Introduction-to-Git-ac396a0697704709a12b6a0e545db049) and [GitHub Tutorial](https://videotutorials.notion.site/Introduction-to-GitHub-202af6f64bbd4299b15f238dcd09d2a7).
 
 ## Folder Information
-**AVL**: contains AVL run and mass files, images of plots, and data from run cases.
+**AVL**: contains AVL ([Athena Vortex Lattice](https://web.mit.edu/drela/Public/web/avl/)) run and mass files, images of plots, and data from run cases.
 
 **MATLAB**: contains MATLAB scripts and functions.
 
-**python**: contains python files, potentially for optimization/AeroSandbox use.
+**python**: contains python files, potentially for optimization/[AeroSandbox](https://github.com/peterdsharpe/AeroSandbox) use.
 
 **airfoils**: contains .dat and .txt files of airfoil coordinates.
 
