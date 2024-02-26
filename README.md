@@ -6,8 +6,11 @@ Use this repo to keep track of performance files!! Add more intro/installation s
 
 ## Folder Information
 **AVL**: contains AVL run and mass files, images of plots, and data from run cases.
+
 **MATLAB**: contains MATLAB scripts and functions.
+
 **python**: contains python files, potentially for optimization/AeroSandbox use.
+
 **airfoils**: contains .dat and .txt files of airfoil coordinates.
 
 ## Team Information
