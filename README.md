@@ -1,5 +1,5 @@
-# [MSAAVE]([https://msaave.com](https://msaaveofficers.wixsite.com/m-saave)) ✈️
-**Michigan Sustainability Applications for Aerospace Vehicle Engineering (MSAAVE)** is a project team at the University of Michigan started by passionate aerospace students that care about sustainability and humanitarian aerospace missions. 
+# [M-SAAVE](https://msaaveofficers.wixsite.com/m-saave) ✈️
+**Michigan Sustainability Applications for Aerospace Vehicle Engineering (M-SAAVE)** is a project team at the University of Michigan started by passionate aerospace students that care about sustainability and humanitarian aerospace missions. 
 
 ## Getting Started
 Use this repo to keep track of performance files!! Add more intro/installation stuff
