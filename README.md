@@ -1,8 +1,8 @@
 # [M-SAAVE](https://msaaveofficers.wixsite.com/m-saave) ✈️
-**Michigan Sustainability Applications for Aerospace Vehicle Engineering (M-SAAVE)** is a project team at the University of Michigan started by passionate aerospace students that care about sustainability and humanitarian aerospace missions. 
+**Michigan Sustainability Applications for Aerospace Vehicle Engineering (M-SAAVE)** is a project team at the University of Michigan started by students that care about sustainability and humanitarian aerospace missions. 
 
 ## Getting Started
-Use this repository to keep track of performance files! 
+This repository keeps track of files used by the Performance Subteam, for aerodynamic design and analysis.
 
 If you haven't used Git or Github before, check out these tutorials: [Git Tutorial](https://videotutorials.notion.site/Introduction-to-Git-ac396a0697704709a12b6a0e545db049) and [GitHub Tutorial](https://videotutorials.notion.site/Introduction-to-GitHub-202af6f64bbd4299b15f238dcd09d2a7).
 
