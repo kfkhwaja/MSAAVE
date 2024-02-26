@@ -1,7 +1,6 @@
 # [MSAAVE](msaave.com) ✈️
 **Michigan Sustainability Applications for Aerospace Vehicle Engineering (MSAAVE)** is a project team at the University of Michigan started by passionate aerospace students that care about sustainability and humanitarian aerospace missions. 
 
-# Project Details
 ## Getting Started
 Use this repo to keep track of performance files!! Add more intro/installation stuff
 
