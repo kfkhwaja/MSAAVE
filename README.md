@@ -11,13 +11,13 @@ If you haven't used Git or Github before, check out these tutorials: [Git Tutori
 
 **MATLAB**: contains MATLAB scripts and functions.
 
-**python**: contains python files, potentially for optimization/[AeroSandbox](https://github.com/peterdsharpe/AeroSandbox) use.
+**Python**: contains python files, potentially for optimization/[AeroSandbox](https://github.com/peterdsharpe/AeroSandbox) use.
 
-**airfoils**: contains .dat and .txt files of airfoil coordinates.
+**Airfoils**: contains .dat and .txt files of airfoil coordinates.
 
 ## Team Information
 Repository created 2/25/2024 by Kabir Khwaja (khwaja@umich.edu)
 
-For further team contact reach out to: msaave.officers@gmail.com
+For further team contact reach out to: msaave.officers@umich.edu
 
 Instagram: @msaave_umich
