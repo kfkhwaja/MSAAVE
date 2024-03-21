@@ -11,7 +11,7 @@ If you haven't used Git or Github before, check out these tutorials: [Git Tutori
 
 **MATLAB**: contains MATLAB scripts and functions.
 
-**Python**: contains python files, potentially for optimization/[AeroSandbox](https://github.com/peterdsharpe/AeroSandbox) use.
+**Python**: contains Python files, potentially for optimization/[AeroSandbox](https://github.com/peterdsharpe/AeroSandbox) use.
 
 **Airfoils**: contains .dat and .txt files of airfoil coordinates.
 
